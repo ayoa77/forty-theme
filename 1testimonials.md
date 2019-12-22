@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: testimonials
 title: Testimonials
 description: "This was like a one-stop shop for our website."
 image: assets/images/pic11.jpg
@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://luggagerelay.com/en?location=tw" target= "blank" class="image">
-			<img src="assets/images/luggage_relay_portfolio.jpg" alt="Photo of a luggage shopping website" data-position="center center" />
+			<img src="assets/images/luggage_relay_portfolio.jpg" alt="Photo of a luggage shopping website" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">

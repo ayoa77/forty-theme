@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 title: Elements
 nav-menu: false
---- -->
+---
 
 <!-- Main -->
 <div id="main" class="alt">
