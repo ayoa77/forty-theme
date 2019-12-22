@@ -105,7 +105,8 @@ The most pertninet files for you will probably be
 2aboutUs.md
 404.md
 
-and there's a lot of styles in elements.md that's already done.
+
+on the aboutUs tile on the index, I was considering not making it clickable and just showing you me and carey there with cool photos and cool quotes and what we do, or something like that.
+
+and there's a lot of styles in elements.md that's already done and could be potentially copied and pasted.
 You can see the results if you navigate to localhost:4000/elements.html
-
-
