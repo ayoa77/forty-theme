@@ -68,46 +68,44 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
-
-# For Nathan Bacon ;)
-
-	clone repo
-	cd into forty-jekyll-theme
-	bundle install
-	bundle exec jekyll serve
-	navigate to localhost:4000
-
-	edit anything you'd like really. jekyll will generate a static version of whatever you're writing and compile it rather quickly. It compiles these files into the _SITE directory, so there's no reason to edit that directly. 
-
-	You will have to manually refresh your browser to see what's going on and if you make changes to filenames, add files, or if you make changes to the _config.yml you will need to restart the server via 'ctrl-c' and bundle exec jekyll serve. It seems likely that bundle exec jekyll restart would work. I'm not 100 percent confiden in that.
-
-	Anyway, you can edit the css in the main.scss found in the top-level /assets/css/main.scss
-
-	The js will be found just under that /assets/js/custom.js
-
-	The html files are a bit bizarre and I don't completely understand it myself, but you'll find that .md files are where you can edit most aspects of these html files and then their layout will be found in, of course, the _layouts.
-
-	The most pertninet files for you will probably be 
-
-	/_includes/header.html
-	/_includes/footer.html
-	/_includes/tiles.html
-	/_layouts/aboutUs.html
-	/_layouts/home.html
-	/_layouts/testimonials.html
-	/_layouts/aboutUs.html
-
-	0whatWeDo.md
-	1testimonials.md
-	2aboutUs.md
-	404.md
-
-
-	on the aboutUs tile on the index, I was considering not making it clickable and just showing you me and carey there with cool photos and cool quotes and what we do, or something like that.
-
-	and there's a lot of styles in elements.md that's already done and could be potentially copied and pasted.
-	You can see the results if you navigate to localhost:4000/elements.html
-
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+
+# For Nathan Bacon ;)
+
+* clone repo
+* cd into forty-jekyll-theme
+* bundle install
+* bundle exec jekyll serve
+* navigate to localhost:4000
+
+* edit anything you'd like really. jekyll will generate a static version of whatever you're writing and compile it rather quickly. It compiles these files into the _SITE directory, so there's no reason to edit that directly. 
+
+* You will have to manually refresh your browser to see what's going on and if you make changes to filenames, add files, or if you make changes to the _config.yml you will need to restart the server via 'ctrl-c' and bundle exec jekyll serve. It seems likely that bundle exec jekyll restart would work. I'm not 100 percent confiden in that.
+
+* Anyway, you can edit the css in the main.scss found in the top-level /assets/css/main.scss
+
+* The js will be found just under that /assets/js/custom.js
+
+* The html files are a bit bizarre and I don't completely understand it myself, but you'll find that .md files are where you can edit most aspects of these html files and then their layout will be found in, of course, the _layouts.
+
+* The most pertninet files for you will probably be 
+
+* /_includes/header.html
+* /_includes/footer.html
+* /_includes/tiles.html
+* /_layouts/aboutUs.html
+* /_layouts/home.html
+* /_layouts/testimonials.html
+* /_layouts/aboutUs.html
+
+* 0whatWeDo.md
+* 1testimonials.md
+* 2aboutUs.md
+* 404.md
+
+* and there's a lot of styles in elements.md that's already done.
+You can see the results if you navigate to localhost:4000/elements.html
+
+
