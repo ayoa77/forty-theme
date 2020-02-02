@@ -1,6 +1,6 @@
 ---
-layout: testimonials
 title: Testimonials
+layout: testimonials
 description: "This was like a one-stop shop for our website."
 image: assets/images/pic11.jpg
 nav-menu: true

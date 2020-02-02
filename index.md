@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, We're Flex Studio"
+landing-title: "We're Flex Studio"
 description: null
 image: null
 author: null

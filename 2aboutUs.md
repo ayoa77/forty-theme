@@ -4,6 +4,7 @@ layout: aboutUs
 description: 'Meet the Team'
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
